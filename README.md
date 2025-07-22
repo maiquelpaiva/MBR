@@ -11,7 +11,7 @@ make
 make run
 ```
 
-## If you dont have QEMU in your linux, use:
+## If you don't have QEMU, use:
 ```
 sudo apt-get install qemu-system
 ```
