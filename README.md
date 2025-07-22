@@ -11,6 +11,11 @@ make
 make run
 ```
 
+## If you dont have QEMU in your linux, use:
+```
+sudo apt-get install qemu-system
+```
+
 ## To clean up the generated files (such as mbr.bin and disk.img), use:
 ```bash
 make clean
